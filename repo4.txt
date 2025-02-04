@@ -1,1 +1,2 @@
-Estpy modificando repo4 desde local
+Este fichero lo he creado en remoto 
+Estoy modificando repo4 desde remoto
